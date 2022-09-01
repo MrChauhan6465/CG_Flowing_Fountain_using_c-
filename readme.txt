@@ -1,8 +1,7 @@
 *********Welcome to Flowing Fountain*********
 
 Outputs:
-
-
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
  ***Installation***
 fallow the steps :  
 1)Install below software and packages from the lunk given
