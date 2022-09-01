@@ -1,5 +1,8 @@
 *********Welcome to Flowing Fountain*********
 
+Outputs:
+
+
  ***Installation***
 fallow the steps :  
 1)Install below software and packages from the lunk given
