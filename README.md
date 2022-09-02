@@ -6,9 +6,19 @@ It's a 3D view of the flowing Fountain which is developed using C++ and Glut lib
 
 ## Screenshots
 
+Starting Screen
 ![Starting Screen ](https://user-images.githubusercontent.com/89354259/188107023-a86417fd-d745-4d22-922a-13c5ba92014e.png)
+
+
+Menu Screen
 ![Menu Screen](https://user-images.githubusercontent.com/89354259/188107052-f0078fb1-4b31-41c5-a3c8-b9f081bb205f.png)
+
+
+Output Screen
 ![Output Screen](https://user-images.githubusercontent.com/89354259/188107089-89c3789e-c10f-430c-9e62-0c3d45dee0d6.png)
+
+
+Help Screen
 ![Help Screen](https://user-images.githubusercontent.com/89354259/188107103-088aca7a-02d3-4877-a298-4e77a38bf720.png)
 
 
