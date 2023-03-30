@@ -34,7 +34,7 @@ Python , Java , C , C++ ,Javascript, HTML, CSS...
 
 fallow the steps :  
 
-1)Install below software and packages from the lunk given
+1)Install below software and packages from the link given
    Software Requirements : Microsoft Visual Studio 2013
                            link = "https://getintopc.com/softwares/development/visual-studio-2013-download-2892272/"
                            Glut files: glew-1.11.0
