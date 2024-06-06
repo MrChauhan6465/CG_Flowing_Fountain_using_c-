@@ -5,7 +5,7 @@ It's a 3D view of the flowing Fountain which is developed using C++ and Glut lib
 
 
 ## Screenshots
-
+![PanCard](https://github.com/MrChauhan6465/CG_Flowing_Fountain_using_c-/assets/89354259/40a1ccc5-1da0-4fa7-bea7-04438e936f7a)
 Starting Screen
 ![Starting Screen ](https://user-images.githubusercontent.com/89354259/188107023-a86417fd-d745-4d22-922a-13c5ba92014e.png)
 
